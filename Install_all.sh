@@ -17,7 +17,7 @@ echo
 
 
 sudo rm -f /usr/local/bin/Refresh_git.sh
-sudo ln -s  ~/Dropbox/Chabi/sh_linux/Rdirs.sh /usr/local/bin/Refresh_git.sh
+sudo ln -s  ~/Dropbox/Chabi/sh_linux/Refresh_git.sh /usr/local/bin/Refresh_git.sh
 echo "Refresh_git.sh Installed!"
 echo
 
