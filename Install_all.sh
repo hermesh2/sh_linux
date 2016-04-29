@@ -15,4 +15,10 @@ sudo ln -s  ~/Dropbox/Chabi/sh_linux/Rdirs.sh /usr/local/bin/Rdirs.sh
 echo "Rdirs.sh Installed!"
 echo
 
+
+sudo rm -f /usr/local/bin/Refresh_git.sh
+sudo ln -s  ~/Dropbox/Chabi/sh_linux/Rdirs.sh /usr/local/bin/Refresh_git.sh
+echo "Refresh_git.sh Installed!"
+echo
+
 echo "========================================================"
