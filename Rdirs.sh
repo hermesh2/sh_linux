@@ -2,13 +2,6 @@
 
 # cd $1
 echo "=========================="
-echo "Refresh R GitHub"
-echo "=========================="
-rm -rf ~/Dropbox/Chabi/R/Scripts\ de\ R/Basic_Scripts/RBasics_Sh/
-git clone https://github.com/hermesh2/RBasics_Sh.git  ~/Dropbox/Chabi/R/Scripts\ de\ R/Basic_Scripts/RBasics_Sh/
-
-
-echo "=========================="
 echo "Create dirs"
 echo "=========================="
 mkdir Data
